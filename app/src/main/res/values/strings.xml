@@ -1,4 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AutoCare</string>
     <string name="logo_description">AutoCare logo</string>
+
+    <string name="select_language">Select your language</string>
+    <string name="english">English</string>
+    <string name="malayalam">മലയാളം</string>
+    <string name="kannada">ಕನ್ನಡ</string>
 </resources>
