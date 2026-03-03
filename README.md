@@ -26,5 +26,4 @@ Built to solve a real problem: tracking maintenance for multiple vehicles.
 
 ## Version
 v0.1 – Initial UI setup with entry logo screen
-
 v0.2 – Splash screen connected and responsive language selection layout improvements
