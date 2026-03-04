@@ -23,6 +23,7 @@ Built to solve a real problem: tracking maintenance for multiple vehicles.
      - Configured AndroidManifest for proper launcher setup 
      - Cleaned project structure and fixed resource warnings
 - Day 5: Improved layout responsiveness across different screen sizes and fixed alignment issues for smaller devices.
+- Day 6: Tested UI across multiple devices, investigated layout alignment issues on smaller screens, and handled Git merge/push workflow.
 
 ## Version
 v0.1 – Initial UI setup with entry logo screen
