@@ -21,7 +21,7 @@ public class LanguageSelectionActivity extends AppCompatActivity {
         Button kannadaButton = findViewById(R.id.button3);
 
         englishButton.setOnClickListener(v -> {
-            Intent intent = new Intent(LanguageSelectionActivity.this, MainActivity.class);
+            Intent intent = new Intent(LanguageSelectionActivity.this, NameActivity.class);
             startActivity(intent);
         });
 
